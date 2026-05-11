@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**devgeo18/devgeo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Geo, a beginner programmer and aspiring game dev/software dev with a passion for art!
+I'm a very creatve person, and I'm often over-ambitious with my projects...
+But I'm on a journey right now learn all the skills I need to satify my constant itch to **make something**.
 
-Here are some ideas to get you started:
+## Languages I know/am learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lua
+- C
+- Python
+
+## Tools I use:
+
+- LibreSprite
+- Love2D
+- vscode
