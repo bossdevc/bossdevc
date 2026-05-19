@@ -1,4 +1,4 @@
-# hello world! 💻
+# hi
 
 ## About me:
 
@@ -27,4 +27,4 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 
 - Become a software developer and/or an indie game deveolper
 - Get cracked at programming
-- Learn a bunch of languages so I can be well rounded
+- learn to finish my projects lol
