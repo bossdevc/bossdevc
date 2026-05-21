@@ -1,4 +1,4 @@
-# 🌸こんにちは🌸
+# 🌸こんにちは!!!🌸
 
 ## About me:
 
@@ -8,11 +8,15 @@ But I'm on a journey right now learn all the skills I need to satify **my consta
 
 P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 
-## Languages I know/am learning:
+## Languages I know:
 
-- Lua 
+- Lua
+
+## Languages I'm learning:
+
 - C
 - Python
+- GDScript
 
 ## Tools I use:
 
@@ -22,6 +26,11 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 - vscode
 - Git/Github (obviously)
 - RPG Maker MZ
+
+## Tools I'm learning: 
+
+- Godot
+- Blockbench
 
 ## My future goals:
 
