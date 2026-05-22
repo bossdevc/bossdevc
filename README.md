@@ -14,6 +14,7 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 
 ## Languages I'm learning:
 
+- GDScript
 - C
 - Python
 
