@@ -14,7 +14,6 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 
 ## Languages I'm learning:
 
-- GDScript
 - C
 - Python
 
@@ -24,7 +23,6 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 - Piskel
 - Love2D
 - vscode
-- Git/Github (obviously)
 - RPG Maker MZ
 
 ## My future goals:
