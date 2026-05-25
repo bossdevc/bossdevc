@@ -11,6 +11,7 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 ## Languages I know:
 
 - Lua
+- Scratch (lmao)
 
 ## Languages I'm learning:
 
